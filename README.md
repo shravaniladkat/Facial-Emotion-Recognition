@@ -24,6 +24,6 @@ Run the script:
 python emotion_detect.py
 ```
 ## Output
--Detects faces in images
--Annotates each face with the predicted emotion
--Displays the image with rectangles and labels
+- Detects faces in images
+- Annotates each face with the predicted emotion
+- Displays the image with rectangles and labels
